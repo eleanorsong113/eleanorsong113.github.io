@@ -7,7 +7,7 @@ excerpt: 'Explores the relationship between financial stress and dietary behavio
 date: 2021-01-01
 venue: 'Current Developments in Nutrition'
 slidesurl: ''
-paperurl: '[https://doi.org/10.1093/cdn/nzab053_019](https://doi.org/10.1093/cdn/nzab053_019)'
+paperurl: 'https://doi.org/10.1093/cdn/nzab053_019'
 bibtexurl: ''
 citation: 'Du, C., Hsiao, P. Y., Ludy, M.-J., Song, S., & Tucker, R. (2021). "Relationship Between Financial Stress and Overall Dietary Risk Behaviors Mediated by Sleep Quality and Duration." <i>Current Developments in Nutrition</i>, 5, 1026.'
 ---

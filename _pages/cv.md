@@ -9,20 +9,20 @@ redirect_from:
 
 {% include base_path %}
 
-# ELEANOR (SHENGFANG) SONG
+# SHENGFANG (ELEANOR) SONG
 
 Email: eleanorsong113@yahoo.com  
 
 ---
 
 ## Summary
-- Over 5 years of experience analyzing complex, large-scale longitudinal survey data and managing relational databases in epidemiological and social science research.  
-- Extensive experience in survey methodology, including survey design, sampling strategies, and addressing missing data and selection bias due to nonresponse.  
-- PhD research focused on causal inference using survey data, developing and applying a stochastic intervention framework that accounts for continuous exposures and missing-data mechanisms.  
-- Proficient in statistical modeling and quantitative methods, including regression modeling, longitudinal analysis, joint models, mixed-effects models, and machine learning approaches (e.g., super learner, cross-validation).  
-- Experienced in data collection, cleaning, and harmonization for large cohort studies and field surveys; contributed to study design, exposure and outcome measurement, and data adjudication.  
-- Strong record of scientific communication and collaboration, with multiple peer-reviewed publications and presentations translating complex analytical results into actionable insights.  
-- Prior experience with survey data collection and respondent interviewing at Ipsos, providing a grounded understanding of field data quality and survey implementation.  
+- Over five years of experience analyzing large, longitudinal observational and survey datasets, including management of relational databases supporting epidemiologic and social science research.  
+- Strong background in survey methodology, including survey design considerations, sampling strategies, and analytical approaches to missing data and nonresponse-related selection bias.  
+- Doctoral research focused on methodological and applied analysis of observational data, including development and application of stochastic intervention frameworks incorporating complex missing-data mechanisms.  
+- Proficient in statistical modeling and data-adaptive methods, including regression and longitudinal models, mixed-effects and joint models, and machine learning approaches (e.g., Super Learner, cross-validation).  
+- Experienced in data preparation and quality assurance for large cohort studies and field surveys, contributing to exposure and outcome definition, data harmonization, and adjudication workflows. 
+- Demonstrated record of scientific communication and collaboration, with peer-reviewed publications and presentations translating complex analyses into clear, interpretable findings.  
+- Prior experience in survey data collection and respondent interviewing at Ipsos, providing practical insight into field implementation, respondent behavior, and data quality considerations. 
 
 ---
 

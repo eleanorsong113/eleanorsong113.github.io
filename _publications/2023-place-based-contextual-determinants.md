@@ -7,7 +7,7 @@ excerpt: 'Systematic review of place-based social and environmental determinants
 date: 2023-01-01
 venue: 'Health & Place'
 slidesurl: ''
-paperurl: '[https://doi.org/10.1016/j.healthplace.2023.103082](https://doi.org/10.1016/j.healthplace.2023.103082)'
+paperurl: 'https://doi.org/10.1016/j.healthplace.2023.103082'
 bibtexurl: ''
 citation: 'Siddika, N., Song, S., Margerison, C. E., Kramer, M. R., & Luo, Z. (2023). "The impact of place-based contextual social and environmental determinants on preterm birth: A systematic review of the empirical evidence." <i>Health & Place</i>, 83, 103082.'
 ---

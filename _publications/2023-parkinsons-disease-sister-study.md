@@ -7,7 +7,7 @@ excerpt: 'Analysis of Parkinson’s disease case ascertainment in a large U.S. w
 date: 2023-01-01
 venue: 'Journal of Parkinson’s Disease'
 slidesurl: ''
-paperurl: '[https://doi.org/10.3233/JPD-230053](https://doi.org/10.3233/JPD-230053)'
+paperurl: 'https://doi.org/10.3233/JPD-230053'
 bibtexurl: ''
 citation: 'Cao, Z., Song, S., Huang, X., Li, C., Luo, Z., D’Aloisio, A. A., Suarez, L., Hernandez, D. G., Singleton, A. B., Sandler, D. P., & Chen, H. (2023). "Parkinson’s Disease Case Ascertainment in the Sister Study: A Cohort for Environmental Health Research." <i>Journal of Parkinson’s Disease</i>, 13(5), 729–742.'
 ---

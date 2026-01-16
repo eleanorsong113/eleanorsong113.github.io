@@ -1,16 +1,16 @@
 locale                   : "en-US"
 site_theme               : "default"   # 可选 "air" 或 "default"
-title                    : "Eleanor (Shengfang) Song"
+title                    : "Shengfang (Eleanor) Song"
 title_separator          : "-"
-name                     : &name "Happy Eleanor (Shengfang) Song"
-description              : &description "Eleanor (Shengfang) Song’s academic portfolio"
+name                     : &name "Happy Shengfang (Eleanor) Song"
+description              : &description "Shengfang (Eleanor) Song’s academic portfolio"
 url                      : "https://eleanorsong113.github.io"   # 请确保与你 GitHub Pages 地址一致
 baseurl                  : ""        # 如果存放于子路径则填写，如 "/subpath"
 repository               : "eleanorsong113/eleanorsong.github.io"
 
 author:
   avatar           : "ssf_image.jfif"    # 请把头像文件放在 /images 或根目录，并命名对应
-  name             : "Eleanor (Shengfang) Song"
+  name             : "Shengfang (Eleanor) Song"
   pronouns         : ""              # 如 "she/her"，不填则省略
   bio              : "Ph.D. candidates in Biostatistics"   # 请替换为你的简介
   location         : "San Jose, CA"  # 根据实际所在位置
@@ -42,7 +42,7 @@ comments:
 # SEO / Sharing / Analytics I'd保留默认或按需设置
 social:
   type                   : Person
-  name                   : "Eleanor (Shengfang) Song"
+  name                   : "Shengfang (Eleanor) Song"
   links: []
 
 analytics:
@@ -115,6 +115,9 @@ collections:
   talks:
     output: true
     permalink: /:collection/:path/
+  education:
+    output: true
+    permalink: /:collection/:path/    
 
 defaults:
   - scope:
@@ -164,6 +167,13 @@ defaults:
       layout: talk
       author_profile: true
       share: true
+  - scope:
+      path: ""
+      type: education
+    values:
+      layout: education
+      author_profile: true
+      share: true      
 
 sass:
   sass_dir: _sass
