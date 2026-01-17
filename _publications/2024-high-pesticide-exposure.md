@@ -11,5 +11,5 @@ paperurl: ' https://doi.org/10.1016/j.envres.2026.123731'
 bibtexurl: ''
 citation: 'Yuan, Y., Plassman, B. L., Song, S., Luo, Z., Parks, C. G., Hofmann, J. N., Freeman, L. E. B., Sandler, D. P., & Chen, H. (2026). "High Pesticide Exposure Events and Subjective Cognitive Complaints among US Farmers." <i>Environmental Research</i>, 20(S7), e088003.'
 ---
-This study investigates how high pesticide exposure events (HPEEs) relate to subjective cognitive decline among U.S. farmers, providing evidence for environmental and occupational risk factors.
+This study investigates how high pesticide exposure events (HPEEs) relate to subjective cognitive complaints among U.S. farmers, providing evidence for environmental and occupational risk factors.
  
