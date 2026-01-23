@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-- **Study Design and Clinical Trials:** Design and analysis of experimental and quasi-experimental studies, including randomization, bias control, survival analysis, and handling missing data.
+- **Study Design and Clinical Trials:** Design and analysis of experimental and quasi-experimental studies, including randomization, bias control, survival analysis, missing-data methods, and training in CDISC standards (SDTM, ADaM).
 - **Analytical Strategies for Observational Studies:** Causal inference methods for observational and quasi-experimental studies, including regression adjustment, propensity score methods, marginal structural models, instrumental variables, and sensitivity analysis.
 - **Cross-Section and Panel Data Analysis:** Econometric approaches for cross-sectional and longitudinal data, emphasizing regression modeling, instrumental variables, GMM estimation, and limited dependent variable models.
 - **Linear Model Methodology:** Theory and application of linear regression, hypothesis testing, model selection, shrinkage and regularization techniques.

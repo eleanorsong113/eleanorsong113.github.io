@@ -12,9 +12,10 @@ redirect_from:
 - Programming & Tools: R, SAS (Certified Base & Advanced), SQL, Stata, SPSS.
 - Causal & Statistical Methods: Quasi-experiments, stochastic interventions, IPW, g-methods, marginal structural
 models, difference-in-differences, IV, matching, fixed-effects/panel models, linear/logistic/mixed-effects/survival/joint
-models, missing-data methods, longitudinal data, machine learning application
-- Data & Study Design: Survey/sampling design, data cleaning, harmonization, ETL pipelines
+models, missing-data methods, longitudinal data, machine learning application.
+- Data, Study Design & Regulatory Standards: Survey/sampling design, data cleaning, harmonization, ETL pipelines,
+and CDISC standards (SDTM, ADaM).
 - RWD Experience: Longitudinal cohort data (AHS, Health ABC (including Medication Inventory Forms data),
 Sister Study), large-scale survey data (NHANES), longitudinal maternally linked birth certificates data (MI 1994-
 2019), unemployment data, and vital records (death certificates).
-- Collaboration & Communication: Statistical consulting, data visualization, cross-functional teamwork, mentoring
+- Collaboration & Communication: Statistical consulting, data visualization, cross-functional teamwork, mentoring.

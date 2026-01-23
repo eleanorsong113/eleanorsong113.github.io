@@ -12,12 +12,12 @@ main:
     url: /education/
   - title: "Employment"
     url: /employment/
+  - title: "Skills"
+    url: /skills/  
   - title: "Experience"
     url: /experience/
   - title: "Teaching"
     url: /teaching/   
-  - title: "Skills"
-    url: /skills/      
   - title: "Courses"
     url: /courses/
   - title: "Publications"
